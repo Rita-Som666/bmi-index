@@ -4,6 +4,6 @@ public class Main {
         int mKg = 98;
         double hM = 1.87;
         int bmi = service.calculate(mKg, hM);
-System.out.println(bmi);
+        System.out.println(bmi);
     }
 }
